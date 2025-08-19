@@ -67,6 +67,28 @@ UI Component Patterns
     Social media links
     Copyright information
 
+  Team Roles
+* Business Analysts(BA): Understands customer’s business processes, Translates customer business needs into requirements
+* Product Owner(PO):  Holds responsibility for a product vision and evolution, Makes sure the final product meets
+                      customer requirements
+* Project Manager:    Makes sure a product or its part is delivered on time and within budget, Manages and motivates the                        software development team
+* UI/UX Designer:     Transforms a product vision into user-friendly designs, Creates user journeys for the best user                           experience and highest conversion rates
+* Software Architect: Designs a high-level software architecture, Selects appropriate tools and platforms to implement                          the product vision, Sets up code quality standards and performs code reviews
+* Software Developer: Engineers and stabilizes the product, Solves any technical problems emerging during the development                       lifecycle
+* Quality Assurance (QA) Engineer: Makes sure an application performs according to requirements, Spots functional and                                        non-functional defects
+* Test Automation Engineer: Designs a test automation ecosystem, Writes and maintains test scripts for automated testing
+* DevOps Engineer: Facilitates cooperation between development and operations teams, Builds continuous integration and                       continuous delivery (CI/CD) pipelines for faster delivery
+
+
+
+
+
+
+
+
+
+
+
 
 
 
