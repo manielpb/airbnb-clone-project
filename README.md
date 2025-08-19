@@ -50,7 +50,7 @@ DevOps Engineer       Manages deployment, CI/CD pipeline, server infrastructure
 Product Owner         Defines requirements, prioritizes features, represents stakeholders
 Scrum Master          Facilitates agile processes, removes blockers, organizes meetings
 
-UI Components Patterns
+UI Component Patterns
 * Navbar
     Logo
     Search bar
