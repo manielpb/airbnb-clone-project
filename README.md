@@ -90,7 +90,7 @@ PostgreSQL: A powerful, open-source relational database system. It is used as th
 
 GraphQl: A query language for APIs and a runtime for fulfilling those queries with your existing data. It allows the frontend client to request exactly the data it needs in a single request, preventing over-fetching or under-fetching of data common in REST APIs.
 
-Database Deesign
+Database Design
 * User
   Purpose:Represents all individuals using the platform, both property owners/hosts and guests.
   Important Fields:
