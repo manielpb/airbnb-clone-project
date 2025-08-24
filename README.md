@@ -1,4 +1,6 @@
 # airbnb-clone-project
+
+#Front-End
 This project is a full-stack clone of the popular accomodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings.
 Tech Stack
 * Frontend: HTML,CSS,Js
@@ -67,6 +69,8 @@ UI Component Patterns
     Social media links
     Copyright information
 
+
+#Back-End
   Team Roles
 * Business Analysts(BA): Understands customer’s business processes, Translates customer business needs into requirements
 * Product Owner(PO):  Holds responsibility for a product vision and evolution, Makes sure the final product meets
@@ -79,6 +83,12 @@ UI Component Patterns
 * Test Automation Engineer: Designs a test automation ecosystem, Writes and maintains test scripts for automated testing
 * DevOps Engineer: Facilitates cooperation between development and operations teams, Builds continuous integration and                       continuous delivery (CI/CD) pipelines for faster delivery
 
+Technology Stack
+Django: A high-level Python web framework used to build the backend server and RESTful APIs. It provides the core structure for the application (models, views, URL routing, admin interface) and handles security, database interaction, and server logic.
+
+PostgreSQL: A powerful, open-source relational database system. It is used as the primary data storage for the application, securely storing and managing all structured data like user accounts, content, and transactional information.
+
+GraphQl: A query language for APIs and a runtime for fulfilling those queries with your existing data. It allows the frontend client to request exactly the data it needs in a single request, preventing over-fetching or under-fetching of data common in REST APIs.
 
 
 
